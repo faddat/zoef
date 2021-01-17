@@ -1,0 +1,9 @@
+syntax = "proto3";
+package faddat.zoef.zoef;
+
+option go_package = "github.com/faddat/zoef/x/zoef/types";
+
+// GenesisState defines the capability module's genesis state.
+message GenesisState {
+}
+
